@@ -5,7 +5,7 @@
 * Python入门书籍推荐--《Python简明教程》
 
 ## Part1、Python爬虫初窥
-### * 第一部分主要学习python爬虫过程中用到的一些基本的工具
+### ——第一部分主要学习python爬虫过程中用到的一些基本的工具
 
 #### 网页页面下载的工具
 * [Urllib2](http://www.pythontab.com/html/2014/pythonhexinbiancheng_1128/928.html)
