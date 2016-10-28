@@ -13,7 +13,7 @@
 
 #### 页面内容提取的工具
 * 正则表达式(re)
-* BeautifulSoup
+* [BeautifulSoup](http://beautifulsoup.readthedocs.io/zh_CN/latest/)
 * lxml & Xpath
 
 ## Part2.数据的简单存储
