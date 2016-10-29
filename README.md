@@ -23,7 +23,11 @@
 * [淘宝MM照片](https://mm.taobao.com/json/request_top_list.htm?page=1)
 
 ## Part2、数据的简单存储
-### ——第二部分
+### ——第二部分学习将数据存放到Excel、MySQL & MongoDB中
+* [Excel](http://xlsxwriter.readthedocs.io/)
+* [MySQL](http://www.runoob.com/python/python-mysql.html)
+* [MongoDB](http://www.jianshu.com/p/5c4cd03d29ae)
+
 
 ## Part3、登录页面的爬取
 ### ——第三部分
