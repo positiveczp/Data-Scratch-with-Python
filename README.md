@@ -24,6 +24,7 @@
 
 ## Part2、数据的简单存储
 ### ——第二部分学习将数据存放到Excel、MySQL & MongoDB中
+#### 通过第一部分的学习我们已经学会如何将爬取到的数据存储在txt文件中了，这一部分主要简单介绍如何利用pymongo、MySQLdb、xlsxwriter这些模块将数据存放到Excel表格、MySQL&MongoDB数据库中
 * [Excel](http://xlsxwriter.readthedocs.io/)
 * [MySQL](http://www.runoob.com/python/python-mysql.html)
 * [MongoDB](http://www.jianshu.com/p/5c4cd03d29ae)
