@@ -35,7 +35,7 @@
 
 ## Part3、登录页面的爬取
 ### ——第三部分介绍如何爬取需要登录的页面
-#### 有很多页面都是需要我们登录了才能够访问的，比如知乎，新浪微博，豆瓣，我们在这一部分介绍两种爬取需要登录页面的方法；分别是表单提交和利用Selenium来控制浏览器
+#### 有很多页面都是需要我们登录了才能够访问的，比如[知乎](https://www.zhihu.com/)，[新浪微博](http://weibo.com/?c=spr_web_sq_firefox_weibo_t001&sudaref=e.firefoxchina.cn&retcode=6102)，[豆瓣](https://www.douban.com/)，我们在这一部分介绍两种爬取需要登录页面的方法；分别是表单提交和利用[Selenium](http://docs.seleniumhq.org/)来控制浏览器
 
 ## Part4、初识多进程、多线程&协程
 ### ——第四部分
