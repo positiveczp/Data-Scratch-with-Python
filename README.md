@@ -38,7 +38,7 @@
 #### 有很多页面都是需要我们登录了才能够访问的，比如[知乎](https://www.zhihu.com/)，[新浪微博](http://weibo.com/?c=spr_web_sq_firefox_weibo_t001&sudaref=e.firefoxchina.cn&retcode=6102)，[豆瓣](https://www.douban.com/)，我们在这一部分介绍两种爬取需要登录页面的方法；分别是表单提交和利用[Selenium](http://docs.seleniumhq.org/)来控制浏览器
 
 ## Part4、初识多进程、多线程&协程
-### ——第四部分
+### ——第四部分主要简单的介绍多线程、多线程和协程的基本概念
 
 ## Part5、Scrapy框架
 ### ——第五部分
