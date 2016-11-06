@@ -39,7 +39,7 @@
 
 #### 实战项目
 * [知乎](https://www.zhihu.com/)
-* [新浪微博](http://weibo.com/?c=spr_web_sq_firefox_weibo_t001&sudaref=e.firefoxchina.cn&retcode=6102)
+* [手机&电脑版新浪微博](http://weibo.com/?c=spr_web_sq_firefox_weibo_t001&sudaref=e.firefoxchina.cn&retcode=6102)
 * [豆瓣](https://www.douban.com/)
 * [qq空间](http://qzone.qq.com/)
 * [SJTU教务管理信息系统](https://jaccount.sjtu.edu.cn/jaccount/jalogin?sid=jafinance20150602&returl=%43%46%75%44%51%77%4a%49%4e%5a%73%74%70%58%67%44%6a%71%43%43%49%38%57%53%71%59%42%43%76%58%58%53%52%67%56%43%46%31%53%31%44%6b%5a%59%39%41%65%6e%64%66%37%36%54%65%41%76%78%31%6f%68%4b%6f%79%2f%50%51%33%65%36%38%45%49%4f%46%47%45&se=%43%48%31%52%65%63%6c%48%6b%69%4a%72%2b%36%45%73%2f%68%78%49%46%56%76%35%79%57%4b%6f%76%6d%75%34%53%54%72%55%47%63%4a%32%31%55%78%39%43%49%2f%50%71%59%58%69%67%58%2b%4b%6a%45%41%44%64%64%47%4f%72%51%3d%3d&v=20120509)
