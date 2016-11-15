@@ -2,7 +2,7 @@
 * Python版本--2.7.11版本
 * IDE开发环境--PyCharm
 * 运行平台--Windows 7
-* Python入门书籍推荐--《Python简明教程》
+* Python入门书籍推荐--[《Python简明教程》](http://www.kuqin.com/abyteofpython_cn/)
 
 ## Part1、Python爬虫初窥
 ### ——第一部分主要学习python爬虫过程中用到的一些基本的工具
