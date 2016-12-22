@@ -50,9 +50,12 @@
 ### ——第四部分主要简单的介绍多线程、多线程和协程的基本概念
 #### 为了提高我们的爬虫爬取的速度，于是在原有的单进程的基础上，我们引入了多进程和多线程的概念，它可以大幅度提高我们爬取的效率
 
+#### 实战项目
+* [网易云音乐](http://music.163.com/)
+
 ## Part5、[Scrapy](http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/tutorial.html)框架
 ### ——第五部分介绍一个非常强大的爬虫框架[Scrapy](http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/tutorial.html)
-
+#### Scrapy是一个使用Python编写的，轻量级的框架，可以大大提高开发的效率，缩短开发的时间
 #### 实战项目
 * [豆瓣图书Top250](https://book.douban.com/top250?start=0)
 * [satomi_pic](http://movie.douban.com/celebrity/1016930/photo/1253599819/#photo)
