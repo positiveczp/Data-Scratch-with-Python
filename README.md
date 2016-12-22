@@ -59,7 +59,7 @@
 #### 实战项目
 * [豆瓣图书Top250](https://book.douban.com/top250?start=0)
 * [satomi_pic](http://movie.douban.com/celebrity/1016930/photo/1253599819/#photo)
-
+* [airi_pic](http://tieba.baidu.com/p/4023230951)
 
 
 
