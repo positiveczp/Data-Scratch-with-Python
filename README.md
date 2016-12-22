@@ -52,3 +52,12 @@
 
 ## Part5、[Scrapy](http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/tutorial.html)框架
 ### ——第五部分介绍一个非常强大的爬虫框架[Scrapy](http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/tutorial.html)
+
+#### 实战项目
+* [豆瓣图书Top250](https://book.douban.com/top250?start=0)
+* [satomi_pic](http://movie.douban.com/celebrity/1016930/photo/1253599819/#photo)
+
+
+
+
+
